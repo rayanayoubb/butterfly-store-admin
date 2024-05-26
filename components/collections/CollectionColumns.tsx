@@ -27,3 +27,4 @@ export const columns: ColumnDef<CollectionType>[] = [
     cell: ({ row }) => <Delete item="collection" id={row.original._id} />,
   },
 ];
+//Rayan
